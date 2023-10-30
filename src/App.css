@@ -1,0 +1,50 @@
+*{
+  background-color:rgb(122, 195, 197)
+}
+
+
+.input{
+  border-radius: 10%;
+  height: 4.2vh;
+}
+
+
+.inn{
+ text-align: center;
+ margin-top: 8rem;
+}
+
+.but{
+  height: 3.5vh;
+  width: 5vw;
+  color: white;
+  border-radius: 10%;
+}
+
+.card{
+  border-radius: 5% !important;
+  border: 2px solid black !important;
+  text-align: center;
+  width: 15vw;
+  margin-left: 35rem;
+  margin-top: 2rem;
+}
+
+.text{
+  color: white;
+}
+
+.bb{
+  margin-left: 1rem;
+  border-radius: 30% !important;
+}
+
+.bbbb{
+  border-radius: 30% !important;
+}
+
+/* .body{
+  background-color: blueviolet;
+  height: 100%;
+  width: 100%;
+} */
