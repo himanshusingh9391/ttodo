@@ -11,6 +11,7 @@ function Input({addTodo}) {
   return (
     <div className='body'>
     <div className='inn'>
+      <h3>Todo List </h3>
         <input type='text' placeholder='Enter an item' onChange={(e)=>setInput(e.currentTarget.value)} value={input} className='input'/>
         <button onClick={()=>{
             addTodo(input) 

@@ -4,21 +4,35 @@
 
 
 .input{
+  margin-left: 8rem;
+  width: 20vw;
   border-radius: 10%;
-  height: 4.2vh;
+  height: 15vh;
+  font-style: italic;
+  font-size: x-large;
+  color: whitesmoke;
 }
 
 
 .inn{
- text-align: center;
- margin-top: 8rem;
+  /* margin-left: 30rem; */
+  text-align: center;
+  /* display: grid;
+  grid-template-columns: repeat(1,1fr); */
+  margin-top: 8rem;
+}
+h3{
+  text-align: center;
+  margin-bottom: 2rem !important;
 }
 
 .but{
-  height: 3.5vh;
-  width: 5vw;
+  height: 6vh;
+  width: 8vw;
   color: white;
   border-radius: 10%;
+  margin-left: 2rem;
+  margin-top: 1rem;
 }
 
 .card{
@@ -26,8 +40,9 @@
   border: 2px solid black !important;
   text-align: center;
   width: 15vw;
-  margin-left: 35rem;
+  margin-left: 36rem;
   margin-top: 2rem;
+  background-color: coral !important;
 }
 
 .text{
@@ -42,9 +57,7 @@
 .bbbb{
   border-radius: 30% !important;
 }
-
-/* .body{
-  background-color: blueviolet;
-  height: 100%;
-  width: 100%;
+/* 
+.body{
+  text-align: center;
 } */
